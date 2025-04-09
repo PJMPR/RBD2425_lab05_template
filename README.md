@@ -195,7 +195,7 @@ W tych zadaniach wykorzystasz polecenie `CREATE VIEW` do tworzenia widoków, kt�
 
 ---
 
-## 🔹 Zadanie 1 – Widok podstawowych danych klientów *(poziom łatwy)*
+## 🔹 Zadanie 1 – Widok podstawowych danych klientów
 
 **Cel:** Stworzyć widok z uproszczonym zestawem danych klientów.
 
@@ -205,7 +205,7 @@ W tych zadaniach wykorzystasz polecenie `CREATE VIEW` do tworzenia widoków, kt�
 
 ---
 
-## 🔹 Zadanie 2 – Widok statystyk zakupów klientów *(poziom średni)*
+## 🔹 Zadanie 2 – Widok statystyk zakupów klientów
 
 **Cel:** Stworzyć widok podsumowujący łączną wartość zakupów każdego klienta.
 
@@ -219,7 +219,7 @@ W tych zadaniach wykorzystasz polecenie `CREATE VIEW` do tworzenia widoków, kt�
 
 ---
 
-## 🔸 Zadanie 3 – Widok szczegółów zakupów według utworów *(poziom trudny)*
+## 🔸 Zadanie 3 – Widok szczegółów zakupów według utworów 
 
 **Cel:** Utworzyć złożony widok łączący dane o zakupach, utworach i klientach.
 
